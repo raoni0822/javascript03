@@ -45,6 +45,7 @@ TAB_MENU.forEach((it, idx) => {
         // for (i = 0; i < TAB_CONTENT.length; i++) {
         //     TAB_CONTENT[i].classList.remove('on');
         // }
+
         //foreach로 쓰면,,,
         TAB_CONTENT.forEach(it => {
             it.classList.remove('on');
